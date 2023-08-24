@@ -4,7 +4,7 @@ Neural networks are an emerging data-driven programming paradigm widely used in 
 
 The more information can be found at https://sites.google.com/view/deep-arc.
 
-The source code and the results can be found at https://github.com/hnurxn/deeparc.
+The source code and the results can be found at https://github.com/hnurxn/Deep-Arc.
 # Contact Lists
 
 If you have any question, please contact the authors:Ren Xiaoning [hnurxn@ustc.mail.edu.cn]
